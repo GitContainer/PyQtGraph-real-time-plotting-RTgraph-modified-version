@@ -6,3 +6,4 @@ Dependencies
 
 This code was made using Spyder 3.2.4 and Qt Designer 5.2.1 on Windows 7 Professional Service Pack 1 64-bits
 For more references please read everything regarding the reference (https://github.com/ssepulveda/RTGraph)
+
